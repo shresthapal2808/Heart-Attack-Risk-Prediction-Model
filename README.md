@@ -1,2 +1,2 @@
 # Heart-Attack-Risk-Prediction-Model
-An AI generated model to prdict the risk of heart attack
+An AI generated model to predict the risk of heart attack
